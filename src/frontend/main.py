@@ -12,7 +12,6 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.progressbar import ProgressBar
 from kivy.clock import Clock
 
-
 font1_path = r'C:\Users\Admin\Documents\Karan Uni\5th semester\Python\Project_KR\Arcade1.TTF'
 font2_path = r'C:\Users\Admin\Documents\Karan Uni\5th semester\Python\Project_KR\Arcade2.TTF'
 
